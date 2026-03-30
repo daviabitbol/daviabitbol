@@ -2,8 +2,7 @@
 
 <div> 
   <img src="https://cheesits456-readme-stats.vercel.app/api?username=daviabitbol&count_private=true&show_icons=true&include_all_commits=true&theme=github_dark"/>
-  <img src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=daviabitbol&layout=compact&card_width=275&theme=github_dark&langs_count=10&hide=c,meson,makefile,m4&exclude_repo=github-readme-stats,BitJanitor,github-activity-readme,fancy-git,challengeBot"/>
-</div>
+  
 
 <!--
 **daviabitbol/daviabitbol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
