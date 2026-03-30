@@ -1,8 +1,9 @@
 ## Hi 👋, I'm Davi Abitbol
 
 <div> 
-  <img src="https://cheesits456-readme-stats.vercel.app/api?username=daviabitbol&count_private=true&show_icons=true&include_all_commits=true&theme=github_dark"/>
-  
+  <img src="https://cheesits456-readme-stats.vercel.app/api?username=daviabitbol&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviabitbol&layout=compact&theme=tokyonight" />
+</div>
 
 <!--
 **daviabitbol/daviabitbol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
